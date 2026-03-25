@@ -1,4 +1,4 @@
-# Boston 311 Needle Pickup Risk (Midterm Group Project)
+# Boston 311 Needle Pickup Risk 
 
 This repository contains a midterm project analyzing **Boston 311 “Needle Pickup” service calls** (from Analyze Boston) as a proxy for opioid/drug-use risk and street-level harm. The goal is to build an ML-driven workflow that helps policy stakeholders **predict where/when risk is highest** to support **proactive resource allocation**.
 
